@@ -1,0 +1,26 @@
+{
+  "name": "v2-timer-component",
+  "version": "1.0.0",
+  "main": "dist/v2-timer-component.umd.js",
+  "module": "dist/v2-timer-component.es.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lps540/kardboard.git"
+  },
+  "keywords": ["web component", "task timer", "timer", "component", "browser"],
+  "author": "Version 2 Software, LLC",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "lit": "^3.1.3",
+    "vite": "^5.2.12"
+  }
+}

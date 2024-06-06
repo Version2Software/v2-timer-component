@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>V2 Timer Component Example</title>
+
+    <style>
+        html, body {
+            height: 100%;
+        }
+
+        .example {
+            --color: white;
+            --background-color: red;
+            --button-color: white;
+            --button-background-color: red;
+            --width: 30vw;
+            --height: 30vh;
+            --border: none;
+        }
+
+        v2-timer-component {
+            margin: 2rem;
+        }
+        button {
+            margin: 2em;
+            font-size: larger;
+        }
+    </style>
+</head>
+<body>
+<v2-timer-component></v2-timer-component>
+<v2-timer-component class="example" duration="15"></v2-timer-component>
+<v2-timer-component small></v2-timer-component>
+<v2-timer-component xsmall></v2-timer-component>
+
+<button onclick="startAllTimers()">Start all timers</button>
+<button onclick="stopAllTimers()">Stop all timers</button>
+
+<script type="module">
+    import "./src/components/V2TimerComponent"
+</script>
+<script>
+    function startAllTimers() {
+        document.dispatchEvent(new Event("v2-timer-start"));
+    }
+    function stopAllTimers() {
+        document.dispatchEvent(new Event("v2-timer-stop"));
+    }
+</script>
+</body>
+</html>
