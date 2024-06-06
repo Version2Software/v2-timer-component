@@ -5,9 +5,7 @@ or no framework at all. For example, if you are building a Kanban board and want
 your board, you can include this component. You can control it via buttons or through events. You can change the
 timer's duration as well as configure its appearance through css variables.
 
-TODO use github link location for timer.png
-
-<img src="timer.png" alt="Timer" width="300"/>
+<img src="https://github.com/Version2Software/v2-timer-component/blob/main/timer.png" alt="Timer" width="300"/>
 
 ## Installation
 
@@ -136,6 +134,4 @@ document.addEventListener('v2-timer-resume', this.resumeTimer);
 
 ## License
 
-TODO use github link location for LICENSE
-
-This project is licensed under the [MIT License](https://github.com/lps540/kardboard/blob/main/LICENSE).
+This project is licensed under the [MIT License](https://github.com/Version2Software/v2-timer-component/blob/main/LICENSE).
