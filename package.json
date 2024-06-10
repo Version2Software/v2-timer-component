@@ -16,6 +16,7 @@
   "keywords": ["web component", "task timer", "timer", "component", "browser"],
   "author": "Version 2 Software, LLC",
   "license": "MIT",
+  "homepage": "https://github.com/Version2Software/v2-timer-component",
   "description": "",
   "devDependencies": {
     "lit": "^3.1.3",
