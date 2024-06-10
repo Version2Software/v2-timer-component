@@ -1,9 +1,9 @@
 # v2-timer-component
 
-This is a simple countdown timer. It is a browser-native web component, therefore it is compatible with any framework,
-or no framework at all. For example, if you are building a Kanban board and want a thirty-minute task timer as part of
-your board, you can include this component. You can control it via buttons or through events. You can change the
-timer's duration as well as configure its appearance through css variables.
+This is a simple countdown timer – a browser-native web component designed for seamless integration with any framework
+or standalone use. Whether you're enhancing a Kanban board with a thirty-minute task timer or adding a customizable
+countdown to your project, this component can help. Easily control the timer through buttons or events, adjust its duration, and
+personalize its appearance using CSS variables.
 
 <img src="https://github.com/Version2Software/v2-timer-component/blob/main/timer.png" alt="Timer" width="300"/>
 
