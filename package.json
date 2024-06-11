@@ -1,6 +1,6 @@
 {
   "name": "v2-timer-component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/v2-timer-component.umd.js",
   "module": "dist/v2-timer-component.es.js",
   "files": [

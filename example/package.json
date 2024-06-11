@@ -1,6 +1,6 @@
 {
   "name": "v2-timer-component-example",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -9,7 +9,7 @@
   "author": "Version 2 Software, LLC",
   "license": "MIT",
   "dependencies": {
-    "v2-timer-component": "1.0.0"
+    "v2-timer-component": "1.0.1"
   },
   "devDependencies": {
     "vite": "^5.2.12"
