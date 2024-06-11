@@ -5,7 +5,7 @@ or standalone use. Whether you're enhancing a Kanban board with a thirty-minute 
 countdown to your project, this component can help. Easily control the timer through buttons or events, adjust its duration, and
 personalize its appearance using CSS variables.
 
-<img src="https://github.com/Version2Software/v2-timer-component/blob/main/timer.png" alt="Timer" width="300"/>
+<img src="https://raw.githubusercontent.com/Version2Software/v2-timer-component/main/timer.png" alt="Timer" width="300"/>
 
 ## Installation
 
