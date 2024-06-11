@@ -54,6 +54,7 @@ npm install v2-timer-component
 <v2-timer-component></v2-timer-component>
 <v2-timer-component class="example" duration="15"></v2-timer-component>
 <v2-timer-component small></v2-timer-component>
+<v2-timer-component xsmall></v2-timer-component>
 
 <button onclick="startAllTimers()">Start all timers</button>
 <button onclick="stopAllTimers()">Stop all timers</button>
