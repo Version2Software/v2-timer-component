@@ -1,6 +1,6 @@
 {
   "name": "v2-timer-component",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "dist/v2-timer-component.umd.js",
   "module": "dist/v2-timer-component.es.js",
   "files": [
@@ -19,7 +19,7 @@
   "homepage": "https://github.com/Version2Software/v2-timer-component",
   "description": "",
   "devDependencies": {
-    "lit": "^3.1.3",
-    "vite": "^5.2.12"
+    "lit": "^3.2.1",
+    "vite": "^5.2.14"
   }
 }

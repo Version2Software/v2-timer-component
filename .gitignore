@@ -3,3 +3,4 @@ dist
 dev-dist
 .idea
 .npmrc
+.DS_store
